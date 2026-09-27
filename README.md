@@ -2,9 +2,9 @@
 
 Hi, I'm Jeroen 👋 I'm a senior software developer based in Dublin, Ireland, with 10+ years of experience and 6 years of production Rust.
 
-- 🍃 **Now:** Senior Software Engineer at [MongoDB](https://www.mongodb.com), working on Atlas Local, the Atlas CLI and the MongoDB MCP server.
-- ☁️ **Before:** Software Development Engineer at Amazon Web Services (AWS), where I built the Rust tooling that deploys AWS Lambda runtimes to every region.
-- 🏗️ **Before that:** Lead Software Architect at Proceedix, where I led the move from a C# monolith to event-sourced Rust microservices.
+- 🍃 **Now:** Senior Software Engineer at [MongoDB](https://www.mongodb.com), working on [Atlas Local](https://github.com/mongodb/atlas-local-cli), the [Atlas CLI](https://github.com/mongodb/mongodb-atlas-cli) and the [MongoDB MCP server](https://github.com/mongodb-js/mongodb-mcp-server).
+- ☁️ **Before:** Software Development Engineer at [Amazon Web Services (AWS)](https://aws.amazon.com), where I built the Rust tooling that deploys AWS Lambda runtimes to every region.
+- 🏗️ **Before that:** Lead Software Architect at [Proceedix](https://proceedix.com), where I led the move from a C# monolith to event-sourced Rust microservices.
 
 ## 🦀 I love Rust
 
