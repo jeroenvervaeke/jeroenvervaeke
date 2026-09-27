@@ -22,3 +22,9 @@ My favourite full stack: **Rust + Axum + React + TypeScript**.
   - [Work history](https://jeroenvervaeke.com/history)
   - [Writing](https://jeroenvervaeke.com/articles)
 - 💼 LinkedIn: [linkedin.com/in/jeroen-vervaeke](https://linkedin.com/in/jeroen-vervaeke)
+
+## ☕ Support my work
+
+- 💖 [GitHub Sponsors](https://github.com/sponsors/jeroenvervaeke)
+- ☕ [Ko-fi](https://ko-fi.com/jeroenvervaeke)
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/jeroenvervaeke)
